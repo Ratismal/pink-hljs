@@ -21,4 +21,4 @@ Or you can just do
 That works.
 
 ## Screenshots
-[a gif or soemthing](https://stupidcat.moe/cat1230hLT3.gif)
+![a gif or soemthing](https://stupidcat.moe/cat1230hLT3.gif)
