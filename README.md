@@ -11,9 +11,7 @@ Pink
 So much pink
 
 ## Installation
-Use beautifuldiscord and shove the pink.css in or something.
-
-Or you can just do
+Shove this somewhere
 ```css
 @import 'https://cdn.rawgit.com/ratismal/pink-hljs/master/pink.css';
 ```
